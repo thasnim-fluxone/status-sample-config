@@ -6,7 +6,7 @@ app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
-  version: "33c7ad6d-d4e8-4348-ba37-f0b803ffc104"
+  version: "08847541-8805-4267-bce5-dd11b3a03a2f"
 
 # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
@@ -82,7 +82,7 @@ app:
   # 17 for IBM Semeru 17, or 21 for IBM Semeru 21. If not set, the service
   # tries to automatically detect the Java version for the application. If the
   # service is unable to detect the Java runtime, it defaults to Java 17.
-  java: 8
+  # java: 8
   
   # Set the name of the custom domain for the application.
   #host: my_custom_domain.io
