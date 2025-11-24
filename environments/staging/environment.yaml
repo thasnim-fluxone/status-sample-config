@@ -16,7 +16,6 @@ app:
   #  version: 1.2
   #  type: war
   
-  
   # Set minimum and maximum number of instances of the application. 
   # If the minimum and maximum values are different, the service scales the
   # instances up and down based on the CPU utilization.
