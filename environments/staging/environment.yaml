@@ -50,7 +50,7 @@ app:
     - name: SOME_ENV_VAR_NAME
       value: some_env_var_value
   variables:
-    - name: FAKE_CERT
+    - name: FAKE_CERTIF
       value: |
         -----BEGIN RSA PRIVATE KEY-----
         MIIEpQIBAAKCAQEAwql0SzKug9zVY8dSxWri8GbUa22OTGN83EMY3Ari4/IvZQaN
