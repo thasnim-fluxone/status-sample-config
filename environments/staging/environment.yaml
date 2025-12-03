@@ -49,12 +49,12 @@ app:
     - name: SOME_ENV_VAR_NAME
       value: some_env_var_value
   variables:
-    - name: multiline
+    - name: FAKE_CERTIF
       value: |
         line1
         line2
         line3
-    - name: FAKE_CERTIF
+    - name: multiline
       value: |
         -----BEGIN RSA PRIVATE KEY-----
         MIIEpQIBAAKCAQEAwql0SzKug9zVY8dSxWri8GbUa22OTGN83EMY3Ari4/IvZQaN
