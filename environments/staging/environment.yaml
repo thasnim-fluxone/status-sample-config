@@ -64,6 +64,21 @@ app:
         XIxFyjPkq8Y5n6cNJdvYk/AS08jJVd5Mtuw3BebtBkxWFdtApv+cLyUL8hF57rZF
         zhtG61ishjdFbTn2o1s//GkbW4FJYzmYnHABvmRjmBLCZlYlRaaw9sc=
         -----END RSA PRIVATE KEY-----
+    - name: FAKE_CERTIF
+      value: |
+        -----BEGIN RSA PRIVATE KEY-----
+        MIIEpQIBAAKCAQEAwql0SzKug9zVY8dSxWri8GbUa22OTGN83EMY3Ari4/IvZQaN
+        GZUrI4rAhkyTJOGs7KgJ3kjwcFkLaiKMRoRdTI5seV9Mwg55a39nBCcVB4F0oDle
+        /36qax+yNDyv6KNpS923DqjxqGCayaW1Jqa41hOa7CAZZCWOKnageq8scPrQpX/j
+        rIMre0OsYHNittxfoOcWpGmgt8vJbk4ZdIdXMsjHWGw6iIf2RNRkru0pZOy8HClt
+        rjPZgvqjHXYOJVeupbEYnxKl4ubmTLvXjD9+STlQU3OWB5JRikm0hB+hgeFFjLQt
+        XynrUKWfHF7E1QSPBFXhjMejMXMAg7kgRYifKQIDAQABAoIBAQDBwkv4QbVFmX1p
+        cnhWcHQM4EESIZG+SB7a+GJ7q1PyMtsWlDUXIHn1zHw3T3T5z1eUSrw9AjtTKaIx
+        DMPaCuTfbKn6vkAtwtiGTZzwesKnl+aMW2NQt13YoCgLOAeZYg4/qy1kWWiI0jSy
+        3Iwrh1ECgYEA7O3Gigmjf4RpFa96W5/4qreTM6j+2+SUxNUp9qVoWu40gbuH9fJH
+        XIxFyjPkq8Y5n6cNJdvYk/AS08jJVd5Mtuw3BebtBkxWFdtApv+cLyUL8hF57rZF
+        zhtG61ishjdFbTn2o1s//GkbW4FJYzmYnHABvmRjmBLCZlYlRaaw9sc=
+        -----END RSA PRIVATE KEY-----
     - name: WLP_LOGGING_CONSOLE_LOGLEVEL
       value: INFO
   systemProperties:
